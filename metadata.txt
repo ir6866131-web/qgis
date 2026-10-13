@@ -1,0 +1,16 @@
+[general]
+name=PyQGIS Agrimensura
+qgisMinimumVersion=3.16
+description=Processa poligonais, gera curvas de nível, memorial descritivo e plantas cadastrais e temáticas.
+version=1.4.0
+author=Equipe de Agrimensura
+email=
+homepage=https://github.com/ir6866131-web/qgis#readme
+repository=https://github.com/ir6866131-web/qgis
+tracker=https://github.com/ir6866131-web/qgis/issues
+about=Plugin para cálculo de vértices, azimutes, distâncias, área e perímetro, geração de curvas de nível a partir de rasters de elevação, memorial e pranchas cadastrais ou temáticas baseadas em temas do QGIS.
+category=Vector
+icon=icon.svg
+experimental=False
+deprecated=False
+
