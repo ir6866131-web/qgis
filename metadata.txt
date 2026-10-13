@@ -1,7 +1,7 @@
 [general]
 name=PyQGIS Agrimensura
 qgisMinimumVersion=3.16
-description=Processa poligonais, gera curvas de nível, memorial descritivo e plantas cadastrais e temáticas.
+description=Survey polygon calculations, contour generation, descriptive reports, and cadastral or thematic layouts.
 version=1.4.0
 author=Equipe de Agrimensura
 email=ir6866131@gmail.com
