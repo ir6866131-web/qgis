@@ -41,3 +41,7 @@ Os testes em `tests/` cobrem azimutes cardinais, detecção do campo de sequênc
 
 O azimute é calculado de acordo com `atan2(ΔE, ΔN)`: 0° aponta para o norte e aumenta no sentido horário. A área e o perímetro são calculados somente depois da transformação para o SRC projetado escolhido.
 
+## Licença
+
+O plugin é distribuído sob GNU GPL versão 2 ou, a critério de quem recebe, qualquer versão posterior. O texto completo está em `LICENSE`. O módulo `magnetic_model.py` contém código baseado em pyGeoMag, distribuído sob MIT; os termos correspondentes estão em `LICENSE-pygeomag.txt`.
+
